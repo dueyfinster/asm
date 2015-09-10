@@ -12,5 +12,5 @@ _start:
 	int 0x80
 
 section .data
-	message db 'Aseembly rules!', 10
+	message db 'Assembly rules!', 10
 	length equ $ - message
