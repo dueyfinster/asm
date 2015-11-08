@@ -10,4 +10,4 @@ WORKDIR $DIRPATH
 
 VOLUME $DIRPATH
 
-CMD["/bin/bash"]
+CMD ["/bin/bash"]
